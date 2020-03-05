@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OefThreading</string>
+    <string name="str_btn_start">Start</string>
+    <string name="str_tv_eerste">Eerste</string>
+    <string name="str_tv_tweede">Tweede</string>
+    <string name="str_tv_derde">Derde</string>
+</resources>
